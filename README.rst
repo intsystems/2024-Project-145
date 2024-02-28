@@ -15,16 +15,16 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Создание персонализированных генераций изображений
+    :Тип научной работы: M1P
+    :Автор: Степанов Илья Дмитриевич
+    :Научный руководитель: Аспирант 1 курса Сколтех, Филатов Андрей Викторович
     :Научный консультант(при наличии): степень, Фамилия Имя Отчество
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Генеративные модели добились высокого качества генераций в общем домене. Однако, когда возникает запрос на генерацию специфичного объекта, в нашем случае человека, то модель не может сгенерировать человека с необходимой точностью и передать его идентичность. В этой задаче вам предлагается предложить решение, которое будет способно генерировать изображения заданного человека в различных варияциях в высоком разрешении.
 
 Research publications
 ===============================
