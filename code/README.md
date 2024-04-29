@@ -68,4 +68,3 @@ python3 script.py --save_path(путь сохранения) "generated_images/"
    
    bash preproc.sh
    python3 script.py --generated_path "generated_images/"
-
